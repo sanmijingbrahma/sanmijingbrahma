@@ -29,7 +29,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin: 0 10px; animation: pulse 1.5s infinite;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" style="margin: 0 10px; animation: pulse 1.5s infinite;" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" style="margin: 0 10px; animation: pulse 1.5s infinite;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45" style="margin: 0 10px; animation: pulse 1.5s infinite;" />
 </p>
 
 ---

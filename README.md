@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm San Mijing Brahma
-### *Computer Science Student | DSA Enthusiast | MERN Stack Explorer | SQL & NoSQL Proficient*
+### *Computer Science Student | Game Dev Enthusiast | New Things Explorer | SQL & NoSQL Proficient*
 
 ---
 

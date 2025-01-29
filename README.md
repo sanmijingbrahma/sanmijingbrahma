@@ -25,9 +25,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" height="45px" alt="JavaScript" />
   </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" height="45px" alt="Java" />
-  </a>
+  
   
   <!-- Frontend Development -->
   <h3>🎨 Frontend Development</h3>

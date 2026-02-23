@@ -1,5 +1,5 @@
 # SOC Analyst Portfolio
-👤 [Your Name]
+👤 San Mijing Brahma
 🎯 Aspiring SOC Analyst | Level 1
 
 ## Skills in Progress
